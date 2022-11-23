@@ -4,11 +4,11 @@
 
 - [Design and Architecture Considerations Checklist](#design-and-architecture-considerations-checklist)
   - [Sections](#sections)
-  - [Total](#total)
+  - [Checklist](#checklist)
   - [Resources](#resources)
     - [Links](#links)
 
-## Total
+## Checklist
 
 - [ ] Overarching themes
   - [ ] Branding
