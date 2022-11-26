@@ -40,6 +40,8 @@
   - privacy regulations and standards in the US, India, the EU, and globally.
     - CCPA, 2018
     - COPPA, 1998
+    - Privacy Shield Principles
+    - SOC1, SOC2, SOC3, PCI-DSS
     - GDPR, 2016
     - DPDP, 2022
   - consumer safety regulations in the US, India, the EU, and globally.
