@@ -50,6 +50,7 @@
     - [ ] (IS) 19000:2022
     - [ ] DMA, 2022
     - [ ] DSA, 2022
+    - [ ] UNGPs, 2011
   - [ ] audit implementation and requirements.
   - [ ] user safety:
     - [ ] restrict content based on age and preference
