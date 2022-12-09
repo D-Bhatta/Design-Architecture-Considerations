@@ -135,6 +135,9 @@
   - [ ] KISS
   - [ ] YAGNI
 - [ ] Data
+  - [ ] shape
+  - [ ] presentation
+  - [ ] patterns
   - [ ] storage
   - [ ] sharing
   - [ ] custodian duty
