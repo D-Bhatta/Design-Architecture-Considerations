@@ -69,6 +69,12 @@
     - [ ] (UX, DX)
     - [ ] aesthetics
     - [ ] accessibility
+      - [ ] perception
+      - [ ] sound
+      - [ ] sensation
+      - [ ] density
+      - [ ] volume
+      - [ ] patterns
   - [ ] people over process
   - [ ] users
     - [ ] end user
