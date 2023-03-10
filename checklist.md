@@ -113,9 +113,11 @@
   - idempotentcy
   - known good architecture practices for the platform
   - progressive enhancement
+  - pluralization
   - migration
   - graceful degradation
-  - deletion
+  - robustness
+  - creation, deletion, modification
   - the end of it
   - winding down
   - deprecation
@@ -128,17 +130,25 @@
   - reliability
   - resilience
   - cohesion and coupling
+  - patterns, volume, density
   - automation
   - observability
+  - modularization
+  - microservices and macroservices
   - DRY
   - SOLID
   - KISS
   - YAGNI
+  - readability
+  - clear intent and outcome
+  - debugging ease
 - Data
   - shape
   - presentation
   - patterns
   - storage
+  - creation, deletion, modification
+  - soft and hard
   - sharing
   - custodian duty
   - confidentiality
@@ -148,10 +158,13 @@
   - distribution
   - pagination
   - transactions
+  - actor
   - auditable logging
+  - pluralization
   - searching
   - sorting
   - indexing
+  - timestamps
   - hashing
   - size limits
   - versioning
@@ -180,6 +193,7 @@
   - encryption
   - decryption
   - signing
+  - timestamps
   - verification
   - trust scale
   - phishing
