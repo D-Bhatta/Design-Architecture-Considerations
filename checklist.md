@@ -150,7 +150,7 @@
   - creation, deletion, modification
   - soft and hard
   - sharing
-  - custodian duty
+  - custodian and stewardship duty
   - confidentiality
   - integrity
   - availability
