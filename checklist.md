@@ -107,6 +107,7 @@
   - static analysis
   - error budgets
   - time
+  - state initialization. regeneration, removal
   - external dependencies
   - circular dependencies
   - retries
@@ -209,6 +210,8 @@
   - RBAC
   - privilege
   - audits
+  - mitre att&ck
+  - stride
 - Identification and categorization of objects:
   - version
   - tag
