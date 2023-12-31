@@ -68,6 +68,7 @@
   - experiences
     - (UX, DX)
     - aesthetics
+    - fluency/ level of expertise
     - accessibility
       - perception
       - sound
@@ -81,15 +82,35 @@
       - customers
       - businesses
       - partners
+      - internal
     - developer
+    - firm
+      - specialists
+      - IT
+      - marketing
+      - legal
+      - finance
+      - sales
   - perspectives
     - users
     - data
     - legal
+    - IT
+    - security
     - cost
     - art, design, aesthetics
   - organization
     - community (moderation, abuse, leverage, closure, death, life)
+    - organizational unit
+      - federation
+      - social graph
+      - association
+      - partnership
+      - hierarchy
+      - department
+      - division
+      - locality
+      - role
   - ownership
 - Define boundaries:
   - time
@@ -158,6 +179,7 @@
   - querying
   - distribution
   - pagination
+  - rightsizing
   - transactions
   - actor
   - auditable logging
@@ -259,6 +281,8 @@
   - metrics
   - analytics
   - external integrations platform
+- Trust and safety
+  - If it can have input, it will be abused
 
 ## Resources
 
